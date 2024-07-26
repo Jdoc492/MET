@@ -1,0 +1,13 @@
+/* Dashboard.css */
+
+/* Define styles for the chart items to ensure consistent sizing */
+.chart-item {
+    flex: 1;
+    min-height: 300px; /* Adjust this value based on your needs */
+  }
+  
+  /* Adjust grid and spacing if needed */
+  .grid {
+    gap: 1.5rem;
+  }
+  
